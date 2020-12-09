@@ -1,2 +1,2 @@
-# FNA_Result_Analyser
-https://ai-project-fna-analyser.herokuapp.com/
+# FNA Result Analyser
+Checkout the webapp at: https://ai-project-fna-analyser.herokuapp.com/
